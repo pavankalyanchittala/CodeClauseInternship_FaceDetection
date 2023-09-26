@@ -2,7 +2,8 @@
 
 ### Face detection using artificial intelligence (AI) involves the use of machine learning algorithms, specifically deep learning Convolutional Neural Networks (CNNs), to identify and locate human faces in images or videos. It is a significant step in facial recognition and has various applications in fields like security, biometrics, entertainment, and social media.
 
-![image](https://github.com/pavankalyanchittala/CodeClauseInternship_FaceDetection/assets/117903644/e5c18998-c83e-40e0-a2ec-ae483e3737bc)
+![image](https://github.com/pavankalyanchittala/CodeClauseInternship_FaceDetection/assets/117903644/d7b8f224-c5db-4426-9b6a-14936bb71fbf)
+
 
 
 #### The implementation of face detection using OpenCV, a popular computer vision library in Python:Let's break down the code to understand its functioning:
